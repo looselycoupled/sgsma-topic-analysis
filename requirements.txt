@@ -1,0 +1,6 @@
+jupyter
+pandas
+pyldavis
+sklearn
+ipywidgets
+nltk
