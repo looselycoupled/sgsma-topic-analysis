@@ -1,6 +1,8 @@
 
 *.joblib
 data/*.csv
+data/*.json
+data/*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -107,7 +109,6 @@ ENV/
 # Hecate internal
 hecate.yaml
 fixture-maker.py
-scripts/
 
 # IDE/editor droppings
 *.swp
